@@ -1,0 +1,26 @@
+### Here are key url sources listed for rag pipeline to pull out meaninful and relevant info from trsuted sites ##
+
+
+# List of URLs
+    "https://www.xe.com/currencyconverter/convert/?Amount=1&From=GBP&To=INR",  # Currency exchange rate
+    "https://www.reuters.com",  # Reuters news (financials, world news)
+    "https://www.bbc.com/news",  # BBC News (general news and trends)
+    "https://www.bloomberg.com",  # Bloomberg (business and financial news)
+    "https://www.rbi.org.in",  # Reserve Bank of India (official financial data)
+    "https://www.fca.org.uk",  # Financial Conduct Authority (UK regulations)
+    "https://www.sec.gov",  # U.S. Securities and Exchange Commission (finance regulations)
+    "https://www.mckinsey.com",  # McKinsey & Co. (business strategy and marketing)
+    "https://www.forbes.com",  # Forbes (business, marketing, tech trends)
+    "https://www.gartner.com",  # Gartner (IT and marketing insights)
+    "https://www.techcrunch.com",  # TechCrunch (startup and tech news)
+    "https://www.theverge.com",  # The Verge (tech and culture news)
+    "https://www.cnbc.com",  # CNBC (market updates and financial news)
+    "https://www.wsj.com",  # Wall Street Journal (business news)
+    "https://www.ft.com",  # Financial Times (market analysis and news)
+    "https://www.wikipedia.org",  # Wikipedia (general knowledge)
+    "https://www.prsindia.org",  # PRS India (policy research)
+    "https://x.com/memes" ,       ## Memes
+    "https://9gag.com/trending", ## Memes
+    "https://news.google.com" ,  ## GOOGLE NEWS
+
+####### more urls could be added depending upon users preferences ########
